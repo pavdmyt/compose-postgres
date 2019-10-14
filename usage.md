@@ -18,7 +18,7 @@ CONTAINER ID        IMAGE                COMMAND                  CREATED       
 2. At login page (if you're using Firefox) credentials should already be filled
 3. After logged in, click at "Servers" at the leftside panel and find `mytestdb`
    under "Databases"
-4. To run a SQL query against DB, choose desired DB at the leftside paben and
+4. To run a SQL query against DB, choose desired DB at the leftside panel and
    click "Tools" -> "Query Tool" at pgAdmin's top bar
 5. For all other questions on pgAdmin usage please refer to
    [docs](https://www.pgadmin.org/docs/pgadmin4/4.13/index.html)
